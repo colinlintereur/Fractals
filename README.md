@@ -8,5 +8,3 @@ This repo was an experiment for me to test out JS and HTML/CSS integration to ma
 ## Acknowledgements
 [StackOverflow](stackoverflow.com) - For any and all of my programming questions  
 [CodeCademy](codecademy.com) - For helping me learn HTML/CSS and JS from the beginning
-
-TESTEDIT
